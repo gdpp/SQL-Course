@@ -1,6 +1,6 @@
 # SQL Course
 
-![sql/postgres](https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://cdn.filestackcontent.com/wiXGO5sXTQG6XhQohK6D)
+![sql/postgres](https://kinsta.com/wp-content/uploads/2022/02/postgres-logo.png)
 
 Welcome to the SQL with PostgreSQL course repository! This repository contains the fundamentals of SQL using one of the most powerful and popular relational database management systems, PostgreSQL. Throughout the course, I learned how to interact with databases, perform complex queries, and manage data efficiently.
 
