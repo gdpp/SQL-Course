@@ -1,4 +1,4 @@
-# SQL Course
+# PostgreSQL Course
 
 ![sql/postgres](https://kinsta.com/wp-content/uploads/2022/02/postgres-logo.png)
 
